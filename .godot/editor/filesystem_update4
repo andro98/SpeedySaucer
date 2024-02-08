@@ -1,2 +1,5 @@
 res://Scenes/level_1.tscn
 res://player.tscn
+res://Scripts/level_1.gd
+res://Scripts/player.gd
+res://Scenes/maze.tscn
